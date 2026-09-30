@@ -1,0 +1,499 @@
+1st command.
+Cole-Boothe-DistributedComputing_-C00558477-
+DistributedComputing_-C00558477-
+config
+dig
+downloaded_1790701819057_randofile.txt
+logs.txt
+randofile.txt
+s3-capatibility
+s3_capatibility.py
+snap
+testfile.txt
+tstfile.txt
+2nd command.
+Linux
+3rd command.
+ip-172-31-34-143
+4th command.
+ 18:09:55 up 8 days,  1:32,  1 user,  load average: 0.00, 0.00, 0.00
+5th command.
+ubuntu
+6th command.
+SHELL=/bin/bash
+PWD=/home/ubuntu
+LOGNAME=ubuntu
+XDG_SESSION_TYPE=tty
+HOME=/home/ubuntu
+LANG=C.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:
+SSH_CONNECTION=130.70.16.214 53588 172.31.34.143 22
+LESSCLOSE=/usr/bin/lesspipe %s %s
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+LESSOPEN=| /usr/bin/lesspipe %s
+USER=ubuntu
+SHLVL=1
+XDG_SESSION_ID=244
+XDG_RUNTIME_DIR=/run/user/1000
+SSH_CLIENT=130.70.16.214 53588 22
+DEBUGINFOD_URLS=https://debuginfod.ubuntu.com 
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+SSH_TTY=/dev/pts/0
+_=/usr/bin/env
+7th command.
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host noprefixroute 
+       valid_lft forever preferred_lft forever
+2: ens5: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 9001 qdisc mq state UP group default qlen 1000
+    link/ether 0a:ff:e9:70:05:a9 brd ff:ff:ff:ff:ff:ff
+    altname enp0s5
+    altname enx0affe97005a9
+    inet 172.31.34.143/20 metric 100 brd 172.31.47.255 scope global dynamic ens5
+       valid_lft 1982sec preferred_lft 1982sec
+    inet6 fe80::8ff:e9ff:fe70:5a9/64 scope link proto kernel_ll 
+       valid_lft forever preferred_lft forever
+8th command.
+3.19.143.1629th command.
+Netid State  Recv-Q Send-Q      Local Address:Port Peer Address:Port
+udp   UNCONN 0      0               127.0.0.1:323       0.0.0.0:*   
+udp   UNCONN 0      0              127.0.0.54:53        0.0.0.0:*   
+udp   UNCONN 0      0           127.0.0.53%lo:53        0.0.0.0:*   
+udp   UNCONN 0      0      172.31.34.143%ens5:68        0.0.0.0:*   
+udp   UNCONN 0      0                   [::1]:323          [::]:*   
+tcp   LISTEN 0      4096        127.0.0.53%lo:53        0.0.0.0:*   
+tcp   LISTEN 0      4096           127.0.0.54:53        0.0.0.0:*   
+tcp   LISTEN 0      4096              0.0.0.0:22        0.0.0.0:*   
+tcp   LISTEN 0      4096                 [::]:22           [::]:*   
+10th command.
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  1.7  24712 15884 ?        Ss   Sep22   0:41 /usr/lib/systemd/systemd --system --deserialize=86
+root           2  0.0  0.0      0     0 ?        S    Sep22   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    Sep22   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-rcu_gp]
+root           5  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-sync_wq]
+root           6  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           7  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-netns]
+root          10  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/0:0H-kblockd]
+root          13  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-mm_percpu_wq]
+root          14  0.0  0.0      0     0 ?        S    Sep22   0:00 [ksoftirqd/0]
+root          15  0.0  0.0      0     0 ?        I    Sep22   0:13 [rcu_sched]
+root          16  0.0  0.0      0     0 ?        S    Sep22   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          17  0.0  0.0      0     0 ?        S    Sep22   0:00 [rcu_exp_gp_kthread_worker]
+root          18  0.0  0.0      0     0 ?        S    Sep22   0:03 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    Sep22   0:00 [kprobe-optimizer]
+root          20  0.0  0.0      0     0 ?        S    Sep22   0:00 [idle_inject/0]
+root          21  0.0  0.0      0     0 ?        S    Sep22   0:00 [cpuhp/0]
+root          22  0.0  0.0      0     0 ?        S    Sep22   0:00 [cpuhp/1]
+root          23  0.0  0.0      0     0 ?        S    Sep22   0:00 [idle_inject/1]
+root          24  0.0  0.0      0     0 ?        S    Sep22   0:02 [migration/1]
+root          25  0.0  0.0      0     0 ?        S    Sep22   0:00 [ksoftirqd/1]
+root          27  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/1:0H-kblockd]
+root          28  0.0  0.0      0     0 ?        S    Sep22   0:00 [kdevtmpfs]
+root          29  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-inet_frag_wq]
+root          30  0.0  0.0      0     0 ?        I    Sep22   0:00 [rcu_tasks_kthread]
+root          31  0.0  0.0      0     0 ?        I    Sep22   0:00 [rcu_tasks_rude_kthread]
+root          32  0.0  0.0      0     0 ?        S    Sep22   0:00 [kauditd]
+root          33  0.0  0.0      0     0 ?        S    Sep22   0:00 [khungtaskd]
+root          35  0.0  0.0      0     0 ?        S    Sep22   0:00 [oom_reaper]
+root          37  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-writeback]
+root          38  0.0  0.0      0     0 ?        S    Sep22   1:11 [kcompactd0]
+root          39  0.0  0.0      0     0 ?        SN   Sep22   0:00 [ksmd]
+root          40  0.0  0.0      0     0 ?        SN   Sep22   0:00 [khugepaged]
+root          41  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-kblockd]
+root          42  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-blkcg_punt_bio]
+root          43  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-kintegrityd]
+root          44  0.0  0.0      0     0 ?        S    Sep22   0:00 [irq/9-acpi]
+root          46  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-tpm_dev_wq]
+root          47  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-ata_sff]
+root          48  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-md_bitmap]
+root          49  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-md_llbitmap_io]
+root          50  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-md_llbitmap_unplug]
+root          51  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-md]
+root          52  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-edac-poller]
+root          53  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-devfreq_wq]
+root          54  0.0  0.0      0     0 ?        S    Sep22   0:00 [watchdogd]
+root          55  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-quota_events_unbound]
+root          56  0.0  0.0      0     0 ?        S    Sep22   0:02 [kswapd0]
+root          57  0.0  0.0      0     0 ?        S    Sep22   0:00 [ecryptfs-kthread]
+root          58  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-kthrotld]
+root          59  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-acpi_thermal_pm]
+root          60  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-nvme-wq]
+root          61  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-nvme-reset-wq]
+root          62  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-nvme-delete-wq]
+root          63  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-nvme-auth-wq]
+root          65  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-mld]
+root          66  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-ipv6_addrconf]
+root          67  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-kstrp]
+root          69  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/u9:0]
+root          80  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-charger_manager]
+root          81  0.0  0.0      0     0 ?        S    Sep22   0:02 [jbd2/nvme0n1p1-8]
+root          82  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-ext4-rsv-conversion]
+root         117  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/0:1H-kblockd]
+root         144  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-kmpathd]
+root         145  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-kmpath_handlerd]
+root         255  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-ena]
+root         261  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-nfit]
+root         292  0.0  0.0      0     0 ?        S    Sep22   0:00 [jbd2/nvme0n1p13-8]
+root         293  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-ext4-rsv-conversion]
+root         351  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/1:1H-kblockd]
+root         532  0.0  0.0      0     0 ?        I<   Sep22   0:00 [kworker/R-cfg80211]
+message+     652  0.0  0.5   9144  4724 ?        Ss   Sep22   0:15 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         662  0.0  2.2  46808 21196 ?        Ss   Sep22   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         669  0.0  0.6  18320  6444 ?        Ss   Sep22   0:02 /usr/lib/systemd/systemd-logind
+root         736  0.0  2.1 126208 19748 ?        Ssl  Sep22   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         954  0.0  0.2   8280  2232 ttyS0    Ss+  Sep22   0:00 /usr/sbin/agetty --noreset --noclear --issue-file=/etc/issue:/etc/issue.d:/run/issue.d:/usr/lib/issue.d --keep-baud 115200,57600,38400,9600 - vt220
+root         962  0.0  0.2   8236  2160 tty1     Ss+  Sep22   0:00 /usr/sbin/agetty --noreset --noclear --issue-file=/etc/issue:/etc/issue.d:/run/issue.d:/usr/lib/issue.d - linux
+root        2838  0.0  1.7 1832820 16212 ?       Ssl  Sep23   0:21 /snap/amazon-ssm-agent/13349/amazon-ssm-agent
+root       38500  0.0  0.2   7488  2688 ?        Ss   Sep23   0:02 /usr/sbin/cron -f -P
+root       38501  0.0  0.1   2824  1688 ?        Ss   Sep23   0:00 /usr/sbin/acpid
+root       38508  0.0  0.1   2908  1724 ?        Ss   Sep23   0:00 /bin/sh /usr/lib/systemd/scripts/chronyd-starter.sh -n -F 1
+root       38509  0.0  0.3  80796  3108 ?        Ssl  Sep23   0:40 /usr/sbin/irqbalance
+root       38512  0.0  0.9 279336  9204 ?        SLsl Sep23   0:55 /usr/sbin/multipathd -d -s
+_chrony    38570  0.0  0.5  20264  4780 ?        S    Sep23   0:11 /usr/sbin/chronyd -n -F 1
+_chrony    38577  0.0  0.2  11936  1980 ?        S    Sep23   0:00 /usr/sbin/chronyd -n -F 1
+root       38646  0.0  3.3 1951868 31340 ?       Ssl  Sep23   0:20 /usr/lib/snapd/snapd
+syslog     39112  0.0  0.4 220304  4436 ?        Ssl  Sep23   0:01 /usr/sbin/rsyslogd -n -iNONE
+polkitd    57212  0.0  1.0 308048  9968 ?        Ssl  Sep26   0:07 /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+root       57226  0.0  1.2 391088 11904 ?        Ssl  Sep26   0:00 /usr/sbin/ModemManager
+root       70667  0.0  0.0      0     0 ?        S    06:14   0:00 [psimon]
+root       70686  0.0  0.8  10716  7712 ?        Ss   06:14   0:00 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups
+root       70690  0.0  2.5  58544 23300 ?        S<s  06:14   0:00 /usr/lib/systemd/systemd-journald
+systemd+   70692  0.0  1.5  22344 14412 ?        Ss   06:14   0:00 /usr/lib/systemd/systemd-resolved
+root       70693  0.0  1.6 543276 14952 ?        Ssl  06:14   0:00 /usr/libexec/udisks2/udisksd
+root       70700  0.0  5.0 498508 46896 ?        Ssl  06:14   0:02 /usr/libexec/fwupd/fwupd
+root       70701  0.0  1.2  37172 11952 ?        Ss   06:14   0:00 /usr/lib/systemd/systemd-udevd
+root       70718  0.0  0.0      0     0 ?        S    06:14   0:00 [psimon]
+systemd+   70719  0.0  1.2  21196 11868 ?        Ss   06:14   0:00 /usr/lib/systemd/systemd-networkd
+root       72055  0.0  0.0      0     0 ?        I    16:09   0:00 [kworker/u8:0-events_unbound]
+root       72094  0.0  0.0      0     0 ?        I    16:40   0:00 [kworker/0:2-cgroup_release]
+root       72454  0.0  0.0      0     0 ?        I    17:19   0:00 [kworker/u8:1-events_power_efficient]
+root       72571  0.0  0.0      0     0 ?        I    17:59   0:00 [kworker/0:0-events]
+root       72719  0.0  0.0      0     0 ?        I    18:00   0:00 [kworker/1:2-events]
+root       72720  0.0  0.0      0     0 ?        I    18:00   0:00 [kworker/u8:2-events_power_efficient]
+root       72831  0.0  0.0      0     0 ?        I    18:04   0:00 [kworker/0:1-events]
+root       72832  0.0  1.2  18124 11888 ?        Ss   18:04   0:00 sshd-session: ubuntu [priv]
+root       72849  0.0  0.0      0     0 ?        I    18:04   0:00 [kworker/1:3-cgroup_free]
+ubuntu     72853  0.0  1.3  22020 12604 ?        Ss   18:04   0:00 /usr/lib/systemd/systemd --user
+ubuntu     72855  0.0  0.4  22744  4156 ?        S    18:04   0:00 (sd-pam)
+ubuntu     72927  0.2  0.8  18424  7892 ?        S    18:04   0:01 sshd-session: ubuntu@pts/0
+ubuntu     72928  0.0  0.5   9280  5468 pts/0    Ss   18:04   0:00 -bash
+ubuntu     73228  0.0  0.4   9960  4208 pts/0    R+   18:13   0:00 ps aux
+11th command.
+    1  aws configure
+    2  sudo apt install awscli
+    3  sudo snap install aws-cli --classic
+    4  aws configure
+    5  aws s3 ls
+    6  touch testfile.txt
+    7  cat > tstfile.txt
+    8  aws s3 cp testfile.txt s3://megahurtsbigbucketname/
+    9  aws s3 presign s3://megahurtsbigbucketname/testfile.txt-expires-in 3600
+   10  aws s3 presign s3://megahurtsbigbucketname/testfile.txt -expires-in 3600
+   11  aws s3 presign s3://megahurtsbigbucketname/testfile.txt-expires-in3600
+   12  exit
+   13  cd ~/.ssh
+   14  nano config
+   15  ssh ec2
+   16  exit
+   17  sudo apt-get install tmux
+   18  sudo apt-get install git
+   19  exit
+   20  dig
+   21  ls
+   22  mkdir
+   23  rm
+   24  rm --help
+   25  chown
+   26  wget
+   27  ifconig
+   28  ifconfig
+   29  uname
+   30  df
+   31  du
+   32  ps
+   33  top
+   34  ping
+   35  tar
+   36  cp
+   37  sudo
+   38  scp
+   39  ssh
+   40  host
+   41  chmod
+   42  head
+   43  tail
+   44  df
+   45  du
+   46  cat
+   47  uname
+   48  scp
+   49  git switch-c setup-b
+   50  git switch -c setup-b
+   51  .git switch -c setup-b
+   52  sudo apt-get install git
+   53  git switch -c setup-b
+   54  .git switch -c setup-b
+   55  git switch -c setup-branch
+   56  git config --global user.name Cole-Boothe
+   57  git config --global user.email coleboothe3@gmail.com
+   58  git config --global credential.helper store
+   59  git branch -b disbranch(create)
+   60  git branch -b disbranch
+   61  git branch -b disbranch(create)
+   62  git branch -b disbranch
+   63  git clone https://github.com/Cole-Boothe/DistributedComputing_-C00558477-
+   64  git branch -b disbranch
+   65  git clone https://github.com/Cole-Boothe/DistributedComputing_-C00558477-
+   66  exit
+   67  git clone https://github.com/Cole-Boothe/DistributedComputing_-C00558477-
+   68  git config --global user.name Cole-Boothe
+   69  git config --global user.email coleboothe3@gmail.com
+   70  git config --global credential.helper store
+   71  git branch -b branch-name
+   72  git clone https://github.com/Cole-Boothe/DistributedComputing_-C00558477-
+   73  git branch -b branch-name
+   74  git clone https://github.com/Cole-Boothe/DistributedComputing_-C00558477-
+   75  get init
+   76  git init
+   77  git checkout -b branch_name
+   78  git add logs.txt
+   79  git init
+   80  git remote add origin https://github.com/Cole-Boothe/Cole-Boothe-DistributedComputing_-C00558477-
+   81  git switch -c branch_name
+   82  git add logs.txt
+   83  git config --global user.name "Cole-Boothe"
+   84  git config --globaluser.email "coleboothe3@gmail.com"
+   85  git config --global user.email "coleboothe3@gmail.com"
+   86  git config --global credential.helper store
+   87  git clone https://github.com/Cole-Boothe/Cole-Boothe-DistributedComputing_-C00558477-
+   88  cd https://github.com/Cole-Boothe/Cole-Boothe-DistributedComputing_-C00558477-
+   89  cd Cole-Boothe-DistributedComputing_-C00558477-
+   90  > logs.txt
+   91  git switch -c setup-branch
+   92  git add logs.txt
+   93  git commit -m "adding Jan 2026 logs in the repo"
+   94  git push
+   95  git switch main
+   96  git merge setup-branch
+   97  git push origin main
+   98  exit
+   99  aws configure
+  100  nano config
+  101  nano s3-capatibility
+  102  nano s3_capatibility.py
+  103  python3 s3_capatibility.py -f create_bucket -p Cole-newbucket
+  104  nano s3_capatibility.py
+  105  python3 s3_capatibility.py -f create_bucket -p Cole-newbucket
+  106  python3 s3_capatibility.py -f create_bucket -p Cole443-newbucket
+  107  nano randofile.txt
+  108  nano s3_capatibility.py
+  109  python3 s3_capatibility.py -f upload_to_s3 -p randofile.txt
+  110  nano s3_capatibility.py
+  111  python3 s3_capatibility.py -f upload_to_s3 -p randofile.txt
+  112  python3 s3_capatibility.py -f download_from_s3 -p randofile.txt
+  113  python3 s3_capatibility.py -f generate_presigned_url -p randofile.txt
+  114  python3 s3_capatibility.py -f list_objects
+  115  python3 s3_capatibility.py -f delete_froms3 -p randofile.txt
+  116  python3 s3_capatibility.py -f delete_from_s3 -p randofile.txt
+  117  python3 s3_capatibility.py -f delete_bucket -p megahurtnewbucket
+  118  exit
+  119  nano config
+  120  exit
+  121  sudo apt-get install tmux
+  122  sudo apt-get install git
+  123  nano logs.txt
+  124  exit
+  125  nano logs.txt
+  126  uname
+  127  ping
+  128  echo "=== 1. uname ===" >> logs.txt && uname -a >> logs.txt
+  129  nano logs.txt
+  130  echo "=== 2. whoami ===" >> logs.txt && whoami >> logs.txt
+  131  nano logs.txt
+  132  whoami
+  133  uname
+  134  echo "=== 2. dig ===" >> logs.txt && dig >> logs.txt
+  135  nano logs.txt
+  136  echo "=== 2. dig ===" >> dig >> logs.txt
+  137  nano logs.txt
+  138  exit
+  139  echo "numero uno" >> logs.txt
+  140  whoami >> logs.txt
+  141  nano logs.txt
+  142  env
+  143  exit
+  144  nano logs.txt
+  145  echo "1st command." >>logs.txt
+  146  ls >> logs.txt
+  147  nano logs.txt
+  148  echo "2nd command." >>logs.txt
+  149  uname >> logs.txt
+  150  echo "3rd command." >>logs.txt
+  151  hostname >> logs.txt
+  152  echo "4th command." >>logs.txt
+  153  uptime >> logs.txt
+  154  echo "5th command." >>logs.txt
+  155  whoami >> logs.txt
+  156  echo "6th command." >>logs.txt
+  157  env >> logs.txt
+  158  echo "7th command." >>logs.txt
+  159  ip a >> logs.txt
+  160  echo "8th command." >>logs.txt
+  161  curl ifconfig.me >> logs.txt
+  162  nano logs.txt
+  163  echo "9th command." >>logs.txt
+  164  ss -tuln >> logs.txt
+  165  echo "10th command." >>logs.txt
+  166  traceroute amazon.com >> logs.txt
+  167  nano logs.txt
+  168  ps aux >> logs.txt
+  169  echo "11th command." >>logs.txt
+  170  history >> logs.txt
+12th command.
+[?1h=[?25l[H[2J(B[mtop - 18:14:38 up 8 days,  1:36,  1 user,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 114 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 113 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m    908.7 (B[m[39;49mtotal,(B[m[39;49m[1m    230.7 (B[m[39;49mfree,(B[m[39;49m[1m    346.5 (B[m[39;49mused,(B[m[39;49m[1m    462.5 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+MiB Swap:(B[m[39;49m[1m      0.0 (B[m[39;49mtotal,(B[m[39;49m[1m      0.0 (B[m[39;49mfree,(B[m[39;49m[1m      0.0 (B[m[39;49mused.(B[m[39;49m[1m    562.2 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND  (B[m[39;49m[K
+(B[m      1 root      20   0   24712  15884  11096 S   0.0   1.7   0:41.50 systemd  (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.11 kthreadd (B[m[39;49m[K
+(B[m      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+ (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     14 root      20   0       0      0      0 S   0.0   0.0   0:00.56 ksoftir+ (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   0.0   0.0   0:13.35 rcu_sch+ (B[m[39;49m[K
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp+ (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.05 rcu_exp+ (B[m[39;49m[K
+(B[m     18 root      rt   0       0      0      0 S   0.0   0.0   0:03.40 migrati+ (B[m[39;49m[K
+(B[m     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kprobe-+ (B[m[39;49m[K
+(B[m     20 root     -51   0       0      0      0 S   0.0   0.0   0:00.00 idle_in+ (B[m[39;49m[K[6;1H[7m Unknown command - try 'h' for help [?25l(B[m[39;49m[K[?25l[H(B[mtop - 18:14:40 up 8 days,  1:36,  1 user,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  0.2 (B[m[39;49mus,(B[m[39;49m[1m  0.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.6 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+
+
+[K
+
+(B[m  72927 ubuntu    20   0   18424   7892   5560 S   0.4   0.8   0:01.60 sshd-se+ (B[m[39;49m[K
+(B[m      1 root      20   0   24712  15884  11096 S   0.0   1.7   0:41.50 systemd  (B[m[39;49m[K
+(B[m      2 root      20   0       0      0      0 S   0.0   0.0   0:00.11 kthreadd (B[m[39;49m[K
+(B[m      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+ (B[m[39;49m[K
+(B[m      4 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      5 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      6 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      7 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m      8 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     10 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     13 root       0 -20       0      0      0 I   0.0   0.0   0:00.00 kworker+ (B[m[39;49m[K
+(B[m     14 root      20   0       0      0      0 S   0.0   0.0   0:00.56 ksoftir+ (B[m[39;49m[K
+(B[m     15 root      20   0       0      0      0 I   0.0   0.0   0:13.35 rcu_sch+ (B[m[39;49m[K
+(B[m     16 root      20   0       0      0      0 S   0.0   0.0   0:00.00 rcu_exp+ (B[m[39;49m[K
+(B[m     17 root      20   0       0      0      0 S   0.0   0.0   0:00.05 rcu_exp+ (B[m[39;49m[K
+(B[m     18 root      rt   0       0      0      0 S   0.0   0.0   0:03.40 migrati+ (B[m[39;49m[K
+(B[m     19 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kprobe-+ (B[m[39;49m[K[6;1H[7m Unknown command - try 'h' for help [?25l(B[m[39;49m[K[?25l[H(B[mtop - 18:14:42 up 8 days,  1:36,  1 user,  load average: 0.00, 0.00, 0.00(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.4 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.6 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+MiB Mem :(B[m[39;49m[1m    908.7 (B[m[39;49mtotal,(B[m[39;49m[1m    230.6 (B[m[39;49mfree,(B[m[39;49m[1m    346.5 (B[m[39;49mused,(B[m[39;49m[1m    462.6 (B[m[39;49mbuff/cache(B[m[39;49m(B[m (B[m[39;49m(B[m    (B[m[39;49m(B[m[39;49m[K
+
+[K
+
+(B[m  72927 ubuntu    20   0   18424   7892   5560 S   0.8   0.8   0:01.61 sshd-se+ (B[m[39;49m[K
+
+
+[H(B[mtop - 18:14:45 up 8 days,  1:36,  1 user,  load average: 0.08, 0.02, 0.01(B[m[39;49m(B[m[39;49m[K
+
+%Cpu(s):(B[m[39;49m[1m  0.0 (B[m[39;49mus,(B[m[39;49m[1m  0.0 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m100.0 (B[m[39;49mid,(B[m[39;49m[1m  0.0 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m (B[m[39;49m(B[m[39;49m[K
+
+
+[K
+
+(B[m[1m  73267 ubuntu    20   0   10972   5780   3668 R   0.3   0.6   0:00.01 top      (B[m[39;49m[K
+
+13th command.
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       346Mi       230Mi       2.7Mi       462Mi       562Mi
+Swap:             0B          0B          0B
+14th command.
+NAME         MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+loop0          7:0    0   74M  1 loop /snap/core22/2411
+loop1          7:1    0 49.3M  1 loop /snap/snapd/26865
+loop2          7:2    0 28.2M  1 loop /snap/amazon-ssm-agent/13009
+loop3          7:3    0 61.3M  1 loop /snap/aws-cli/2312
+loop4          7:4    0 28.4M  1 loop /snap/amazon-ssm-agent/13349
+loop5          7:5    0   74M  1 loop /snap/core22/2955
+nvme0n1      259:0    0    8G  0 disk 
+├─nvme0n1p1  259:1    0  6.9G  0 part /
+├─nvme0n1p13 259:2    0 1023M  0 part /boot
+├─nvme0n1p14 259:3    0    4M  0 part 
+└─nvme0n1p15 259:4    0  106M  0 part /boot/efi
+15th command.
+Filesystem       Size  Used Avail Use% Mounted on
+/dev/root        6.7G  2.9G  3.8G  43% /
+tmpfs            455M     0  455M   0% /dev/shm
+tmpfs            182M  916K  181M   1% /run
+efivarfs         128K  3.1K  120K   3% /sys/firmware/efi/efivars
+tmpfs            455M     0  455M   0% /tmp
+/dev/nvme0n1p13  989M  163M  760M  18% /boot
+/dev/nvme0n1p15  105M  6.3M   99M   7% /boot/efi
+none             1.0M     0  1.0M   0% /run/credentials/getty@tty1.service
+none             1.0M     0  1.0M   0% /run/credentials/serial-getty@ttyS0.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+none             1.0M     0  1.0M   0% /run/credentials/systemd-networkd.service
+tmpfs             91M  8.0K   91M   1% /run/user/1000
+16th command.
+● ssh.service - OpenBSD Secure Shell server
+     Loaded: loaded (/usr/lib/systemd/system/ssh.service; disabled; preset: enabled)
+    Drop-In: /usr/lib/systemd/system/ssh.service.d
+             └─ec2-instance-connect.conf
+     Active: active (running) since Wed 2026-09-30 06:14:34 UTC; 12h ago
+ Invocation: 36cc0b43ccc34739bf99f082b0862382
+TriggeredBy: ● ssh.socket
+       Docs: man:sshd(8)
+             man:sshd_config(5)
+    Process: 70676 ExecStartPre=/usr/sbin/sshd -t (code=exited, status=0/SUCCESS)
+   Main PID: 70686 (sshd)
+      Tasks: 1 (limit: 627)
+     Memory: 4M (peak: 5.3M)
+        CPU: 1.579s
+     CGroup: /system.slice/ssh.service
+             └─70686 "sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups"
+
+Sep 30 17:24:51 ip-172-31-34-143 sshd-session[72526]: Disconnected from invalid user user 94.141.70.181 port 49150 [preauth]
+Sep 30 17:28:41 ip-172-31-34-143 sshd-session[72529]: Connection closed by 94.47.47.203 port 20257
+Sep 30 17:38:35 ip-172-31-34-143 sshd-session[72538]: Connection closed by 37.52.105.122 port 47058
+Sep 30 17:40:39 ip-172-31-34-143 sshd-session[72544]: Connection closed by 37.52.105.122 port 54784
+Sep 30 17:52:44 ip-172-31-34-143 sshd-session[72562]: Connection closed by 181.12.213.31 port 56336
+Sep 30 17:59:09 ip-172-31-34-143 sshd-session[72565]: Accepted publickey for ubuntu from 130.70.16.214 port 58336 ssh2: RSA SHA256:jUerotuBk8j9B1Fr2reSiKW9Q15pLInJBwMVOUH1kRM
+Sep 30 17:59:09 ip-172-31-34-143 sshd-session[72565]: pam_unix(sshd:session): session opened for user ubuntu(uid=1000) by ubuntu(uid=0)
+Sep 30 18:01:11 ip-172-31-34-143 sshd-session[72721]: Connection closed by 186.104.153.99 port 36368
+Sep 30 18:04:51 ip-172-31-34-143 sshd-session[72832]: Accepted publickey for ubuntu from 130.70.16.214 port 53588 ssh2: RSA SHA256:jUerotuBk8j9B1Fr2reSiKW9Q15pLInJBwMVOUH1kRM
+Sep 30 18:04:51 ip-172-31-34-143 sshd-session[72832]: pam_unix(sshd:session): session opened for user ubuntu(uid=1000) by ubuntu(uid=0)
+17th command.
+/home/ubuntu
+18th command.
+uid=1000(ubuntu) gid=1000(ubuntu) groups=1000(ubuntu),4(adm),24(cdrom),27(sudo),30(dip),102(lxd)
+19th command.
+alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ll='ls -alF'
+alias ls='ls --color=auto'
+20th command.
+ubuntu adm cdrom sudo dip lxd
